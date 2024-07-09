@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'components-movie';
   img1 =
     'https://occ-0-2040-2164.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABW0CdL7BuY0VTI81TjA2iMRBryIJt2mUIsehZnbVH_AlD0DAXB5kE9-RJ9f-at0-SPB4PA8QbonFUC3eA-ND3puHO2m-7pab-mCDUA1QTbPbw89q3EkQfjcY9M4NM0rZEnGE.jpg?r=4f5';
   img2 =
@@ -17,4 +16,4 @@ export class AppComponent {
     'https://occ-0-2040-2164.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABX8EdjlxR-oKW1CgQn5eFGS_qaTLehs6_4ftvnU7WzViQXFKnR5fbU0LAvH-2ZEwQlWfOsxNNaG55miugeqFfU003VFL3rP-4a1_ltI98M8xm01FyWIiJ2VQ9CKi7i29l-86.jpg?r=152';
   img5 =
     'https://occ-0-2040-2164.1.nflxso.net/dnm/api/v6/rkETp35xJVj-6WaffQsS77awykM/AAAABXmLVtUXMDD6mDV5I6VfUyjH5bAoDPlzxqsR37MxELC_G-balPjtinRm3zTY33c7IlhFRH9UGSSJUTJX_pRmuLnx4PRMXbdlao7zDwzLvLlpwukI0m_sm5Av4nagWpQ0rik2.jpg?r=488';
-}
+  }

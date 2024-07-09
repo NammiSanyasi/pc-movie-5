@@ -6,6 +6,6 @@ import { Component,Input } from '@angular/core';
   styleUrl: './movie.component.css'
 })
 export class MovieComponent {
-  @Input() img!: string;
-  @Input() title!: string;
+  @Input() img!:string; //(img:any)
+  @Input() title!: string; //(title : any)
 }
